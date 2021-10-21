@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+img {
+    text-align: center;
+    margin: 10px;
+}
+
+h1,h2,h3 {
+    font-family: Verdana;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-weight: normal;
+}
+
+h2 {
+    font-weight: 300;
+    color: white;
+    font-size: 42px;
+}
+
+h3 {
+    font-size: 21px;
+    font-weight: normal;
+    color: gray;
+}
+
+.cta {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer h3 {
+    text-align: right;
+}
