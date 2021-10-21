@@ -5,10 +5,9 @@ body {
 
 img {
     text-align: center;
-    margin: 10px;
 }
 
-h1,h2,h3 {
+h1,h2,p {
     font-family: Verdana;
 }
 
@@ -25,7 +24,7 @@ h2 {
     font-size: 42px;
 }
 
-h3 {
+p {
     font-size: 21px;
     font-weight: normal;
     color: gray;
@@ -37,6 +36,6 @@ h3 {
     font-size: 16px;
 }
 
-footer h3 {
+footer p {
     text-align: right;
 }
