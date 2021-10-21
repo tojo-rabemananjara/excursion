@@ -5,4 +5,4 @@ This is a simple landing page made using HTML and CSS. The goal of this project 
 * HTML5
 * CSS3
 ## Launch
-Go to x.io
+Go to https://tojo-rabemananjara.github.io/excursion/
